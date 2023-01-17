@@ -1,0 +1,24 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build", //需与lauch.json中"preLaunchTask"项命名一致
+      "type": "shell",
+      "command": "/usr/bin/g++",
+      "args": [
+        "-g",
+        "${file}",
+        "-o",
+        "${fileDirname}/${fileBasenameNoExtension}" //输出之执行文件名，要与 launch 中调用的 program 项命名一致
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      // Use the standard MS compiler pattern to detect errors, warnings and infos
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}

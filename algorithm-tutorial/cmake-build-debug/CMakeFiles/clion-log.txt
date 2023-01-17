@@ -1,0 +1,4 @@
+/media/user/D-Disk/linux/primary/Softwares/CLion/clion-2022.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/media/user/D-Disk/linux/primary/Softwares/CLion/clion-2022.2.4/bin/ninja/linux/ninja -G Ninja -S /media/user/D-Disk/linux/workspaces/clang-projects/algorithm-trials/algorithm-tutorial -B /media/user/D-Disk/linux/workspaces/clang-projects/algorithm-trials/algorithm-tutorial/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/user/D-Disk/linux/workspaces/clang-projects/algorithm-trials/algorithm-tutorial/cmake-build-debug

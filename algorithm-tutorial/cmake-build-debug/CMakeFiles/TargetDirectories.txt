@@ -1,0 +1,3 @@
+/media/user/D-Disk/linux/workspaces/clang-projects/algorithm-trials/algorithm-tutorial/cmake-build-debug/CMakeFiles/algorithm_tutorial.dir
+/media/user/D-Disk/linux/workspaces/clang-projects/algorithm-trials/algorithm-tutorial/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/user/D-Disk/linux/workspaces/clang-projects/algorithm-trials/algorithm-tutorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
